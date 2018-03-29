@@ -1,5 +1,6 @@
 # PHP Contact Form with HTML Emails & Optional Captcha (Anti-Spam)
-By [Aaron Fagan](https://www.aaronfagan.ca/)
+By <a href="https://www.aaronfagan.ca/" target="_blank">Aaron Fagan</a>
+
 
 ## Instructions
-[See blog article.](https://www.aaronfagan.ca/blog/2015/php-contact-form-with-html-emails-optional-captcha-anti-spam/)
+<a href="https://www.aaronfagan.ca/blog/2015/php-contact-form-with-html-emails-optional-captcha-anti-spam/" target="_blank">See blog article.</a>
