@@ -1,4 +1,3 @@
-![HitCount](http://hits.dwyl.io/aaronfagan/php-contact-form.svg)
 # PHP Contact Form with HTML Emails & Optional Captcha (Anti-Spam)
 Simple PHP contact form with HTML emails and an optional, math based captcha.
 
