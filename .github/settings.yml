@@ -1,8 +1,8 @@
 repository:
-  name: php-contact-form
-  description: "PHP Contact Form with HTML Emails & Optional Captcha (Anti-Spam)"
-  homepage: "https://www.aaronfagan.ca/blog/2015/php-contact-form-with-html-emails-optional-captcha-anti-spam/"
-  default_branch: master
+  name: 'php-contact-form'
+  description: 'PHP Contact Form with HTML Emails & Optional Captcha (Anti-Spam)'
+  homepage: 'https://www.aaronfagan.ca/blog/2015/php-contact-form-with-html-emails-optional-captcha-anti-spam/'
+  default_branch: 'master'
   private: false
   has_issues: true
   has_wiki: false
@@ -13,9 +13,9 @@ repository:
   allow_rebase_merge: true
 
 labels:
-  - name: bug
-    color: CC0000
-  - name: feature
-    color: 336699
-  # - name: first-timers-only
-  #   oldname: Help Wanted # Include if renaming
+  - name: 'bug'
+    color: 'CC0000'
+  - name: 'feature'
+    color: '336699'
+  # - name: 'first-timers-only'
+  #   oldname: 'Help Wanted' # Include if renaming
