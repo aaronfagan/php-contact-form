@@ -41,7 +41,7 @@ if ($_POST) {
 	else {
 		$headers['MIME-Version'] = '1.0';
 		$headers['Content-type'] = 'text/html;charset=UTF-8';
-		$headers['Return-Path']  = 'your-email@address.com';
+		$headers['Return-Path']  = EMAIL_TO;
 		$headers['From']         = $name.' <'.$email.'>';
 		$headers['Reply-To']     = $name.' <'.$email.'>';
 
